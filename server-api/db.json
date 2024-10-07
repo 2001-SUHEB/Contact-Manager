@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "f56548ac-6f5c-4004-b0bd-8500c0c54e4f",
+      "name": "aditya",
+      "email": "Aditya@gmail.com"
+    },
+    {
+      "id": "6b2a508f-898d-4537-b45c-37d400844768",
+      "name": "S.Mohammed Sufiyan",
+      "email": "smdsufiyan60@gmail.com"
+    },
+    {
+      "id": "5edb40d3-674c-412a-a36b-aa332fd22a2f",
+      "name": "syed suheb",
+      "email": "syedsuheb333@gmail.com"
+    }
+  ]
+}
